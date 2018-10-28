@@ -22,6 +22,12 @@ namespace Condemned_DDS_converter
                 }
 
                 byte[] array = File.ReadAllBytes(string.Join(" ", args));
+                if(array.Length == 0x0)
+                {
+                    Console.WriteLine("File is empty. Skipping!");
+                    return;
+                }
+
                 string header = "";
                 int i = 0;
                 while (array[i] != 0x0)
