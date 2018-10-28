@@ -1,0 +1,10 @@
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\bin\Release\Condemned-DDS-converter.exe.config
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\bin\Release\Condemned-DDS-converter.exe
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\bin\Release\Condemned-DDS-converter.pdb
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\obj\Release\Condemned-DDS-converter.csproj.CoreCompileInputs.cache
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\obj\Release\Condemned-DDS-converter.exe
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\obj\Release\Condemned-DDS-converter.pdb
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\Release\Condemned-DDS-converter.exe.config
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\Release\Condemned-DDS-converter.exe
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\Release\Condemned-DDS-converter.pdb
+D:\Projekty\Condemned-DDS-converter\Condemned-DDS-converter\obj\Release\Condemned-DDS-converter.csprojAssemblyReference.cache
